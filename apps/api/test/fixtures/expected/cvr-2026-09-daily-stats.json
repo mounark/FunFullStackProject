@@ -1,0 +1,122 @@
+[
+  {
+    "day": "2026-09-01",
+    "lowAverage": 10.46,
+    "highAverage": 10.46,
+    "volume": 0
+  },
+  {
+    "day": "2026-09-02",
+    "lowAverage": 10.1761,
+    "highAverage": 10.1794,
+    "volume": 8038
+  },
+  {
+    "day": "2026-09-03",
+    "lowAverage": 10.2095,
+    "highAverage": 10.2313,
+    "volume": 13774
+  },
+  {
+    "day": "2026-09-04",
+    "lowAverage": 10.2096,
+    "highAverage": 10.2226,
+    "volume": 20901
+  },
+  {
+    "day": "2026-09-08",
+    "lowAverage": 10.178,
+    "highAverage": 10.2001,
+    "volume": 3163
+  },
+  {
+    "day": "2026-09-09",
+    "lowAverage": 10.0667,
+    "highAverage": 10.0917,
+    "volume": 2987
+  },
+  {
+    "day": "2026-09-10",
+    "lowAverage": 10.0524,
+    "highAverage": 10.0569,
+    "volume": 4981
+  },
+  {
+    "day": "2026-09-11",
+    "lowAverage": 10.25,
+    "highAverage": 10.25,
+    "volume": 0
+  },
+  {
+    "day": "2026-09-14",
+    "lowAverage": 9.92,
+    "highAverage": 9.92,
+    "volume": 0
+  },
+  {
+    "day": "2026-09-15",
+    "lowAverage": 9.8241,
+    "highAverage": 9.8241,
+    "volume": 1352
+  },
+  {
+    "day": "2026-09-16",
+    "lowAverage": 10,
+    "highAverage": 10,
+    "volume": 300
+  },
+  {
+    "day": "2026-09-17",
+    "lowAverage": 9.9964,
+    "highAverage": 10.038,
+    "volume": 2591
+  },
+  {
+    "day": "2026-09-18",
+    "lowAverage": 10.23,
+    "highAverage": 10.23,
+    "volume": 131
+  },
+  {
+    "day": "2026-09-21",
+    "lowAverage": 10.2028,
+    "highAverage": 10.24,
+    "volume": 4894
+  },
+  {
+    "day": "2026-09-22",
+    "lowAverage": 10.0983,
+    "highAverage": 10.1383,
+    "volume": 3267
+  },
+  {
+    "day": "2026-09-23",
+    "lowAverage": 10.0995,
+    "highAverage": 10.0995,
+    "volume": 1615
+  },
+  {
+    "day": "2026-09-24",
+    "lowAverage": 10.2499,
+    "highAverage": 10.2499,
+    "volume": 213
+  },
+  {
+    "day": "2026-09-28",
+    "lowAverage": 9.95,
+    "highAverage": 9.9585,
+    "volume": 2356
+  },
+  {
+    "day": "2026-09-29",
+    "lowAverage": 10.05,
+    "highAverage": 10.05,
+    "volume": 0
+  },
+  {
+    "day": "2026-09-30",
+    "lowAverage": 10.6625,
+    "highAverage": 10.7863,
+    "volume": 4463
+  }
+]
