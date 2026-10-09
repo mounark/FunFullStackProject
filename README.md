@@ -179,6 +179,9 @@ These two files are part of the submission and show how the project was built:
 
 - [CLAUDE.md](CLAUDE.md) — the specification the backend was generated from: architecture and SOLID
   rules, domain rules, error table, testing rules and working agreements. It is the source of truth
-  for behavior.
+  for behavior. Prompting and research was done before hand. An example prompt send to Claude would be
+  "Tell me the pros and cons of using Node.js with Fastify vs C# for the backend". Several research prompts
+  were given. These were not included for 2 reasons, #1, they did not create any part of the literal project.
+  #2 This file is a part of the prompt as it servers as the cached context and ground truth.
 - [PROMPT_LOG.md](PROMPT_LOG.md) — every prompt given to the AI assistant while building the project,
   numbered in order.
